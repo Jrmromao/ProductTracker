@@ -1,0 +1,43 @@
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\bin\Debug\ProductTracking.exe
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\bin\Debug\ProductTracking.pdb
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.Properties.Resources.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.csproj.GenerateResource.Cache
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.exe
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.pdb
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.formContainer.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.formLogin.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.formManager.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.formSales.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.formOperator.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTracking\obj\Debug\ProductTracking.formAddUser.resources
+C:\Documents and Settings\tom.costello\Desktop\PTVersions\ProductTrackingV1\obj\Debug\ProductTracking.exe
+C:\Documents and Settings\tom.costello\Desktop\PTVersions\ProductTrackingV1\obj\Debug\ProductTracking.pdb
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.exe
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.pdb
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\bin\Debug\ProductTracking.exe
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\bin\Debug\ProductTracking.pdb
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.formContainer.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.formAddUser.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.formLogin.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.formManager.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.formOperator.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.formSales.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.Properties.Resources.resources
+C:\Documents and Settings\tom.costello\Desktop\ProductTrackingV1\obj\Debug\ProductTracking.csproj.GenerateResource.Cache
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.exe
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.pdb
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\bin\Debug\ProductTracking.exe
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\bin\Debug\ProductTracking.pdb
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.formContainer.resources
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.formAddUser.resources
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.formLogin.resources
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.formManager.resources
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.formOperator.resources
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.formSales.resources
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.Properties.Resources.resources
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.csproj.GenerateResource.Cache
+C:\Users\Brendan.Watson\Desktop\SD3Proj\BW\ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.csprojResolveAssemblyReference.cache
+C:\Users\Joao\Desktop\LIT-Year3\SoftwareEngineeringProject\ProductTracker\Repos-ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.exe
+C:\Users\Joao\Desktop\LIT-Year3\SoftwareEngineeringProject\ProductTracker\Repos-ProductTrackingV1\ProductTrackingV1\ProductTrackingV1\obj\Debug\ProductTracking.pdb
